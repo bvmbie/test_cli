@@ -1,4 +1,5 @@
-UPDATE
+# give permissions by chmod +x travel_destinations
+# then you cn execute it by ./travel_destinations
 
 # TestCli
 
